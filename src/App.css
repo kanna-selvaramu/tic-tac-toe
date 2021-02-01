@@ -1,0 +1,32 @@
+.cls_Title {
+  text-align: center;
+  margin: 20px 0px;
+}
+
+.cls_BodyCont {
+  margin: 0 auto;
+  max-width: 200px;
+  text-align: center;
+}
+
+.cls_BlockCont {
+  display: inline-block;
+  width: 50px;
+  border: solid 1px;
+  padding: 10px 0px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.cls_WinnerMessage {
+  margin-top: 20px;
+}
+
+.cls_ReloadTitle {
+  text-align: center;
+  margin: 20px auto;
+  cursor: pointer;
+  border: solid 1px;
+  width: 100px;
+  padding: 5px 0px;
+}
